@@ -31,7 +31,7 @@ This is a simple graphical File Organizer application built using Python and Tki
 
 ### **Download and Install**
 
-1. **Download the `.exe` file** from Here.
+1. **Download the `.exe` file** from [here](https://github.com/AceMonke002/File-Organizer/releases/tag/v1.0.0).
 2. Once downloaded, double-click the file to open the File Organizer.
 3. No installation is required; simply run the `.exe` and start organizing your files.
 
